@@ -1,0 +1,24 @@
+{
+  "name": "e-commerce-backend",
+  "version": "1.0.0",
+  "description": "we will make backend of e-commerce application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "author": "keshav",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cloudinary": "^1.25.0",
+    "cors": "^2.8.5",
+    "email-validator": "^2.0.4",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.11.18",
+    "stripe": "^8.140.0",
+    "uuid": "^3.3.3"
+  }
+}

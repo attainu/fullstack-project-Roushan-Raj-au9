@@ -1,0 +1,36 @@
+.displayCartProducts{
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid rgba(128, 128, 128, 0.24);
+    border-radius: 10px;
+    
+}
+#cartProductImage{
+    width: 210px;
+}
+.renderCart{
+    /* overflow-y: scroll; */
+    border: 1px solid rgba(128, 128, 128, 0.24);
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.checkout{
+    border: 1px solid rgba(128, 128, 128, 0);
+    background-color: rgba(128, 128, 128, 0.219);
+    border-radius: 10px;
+    height: 40vh;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+span{
+    float: right;
+}
+
+.displayCartProducts p {
+    width: 250px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}

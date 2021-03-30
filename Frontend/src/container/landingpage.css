@@ -1,0 +1,24 @@
+.search{
+    background-image: url('../assets/searchsection.jpg');
+    height: 60vh;
+}
+
+.input{
+    width: 60%;
+    position: absolute;
+    margin-top: 14%;
+    margin-left: 10%;
+    background-color: rgba(0, 0, 0, 0.418);
+}
+
+.input h3{
+    color:aliceblue
+}
+
+.search_result{
+    margin-top: 20px;
+}
+
+Link{
+    text-decoration: none;
+}

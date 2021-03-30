@@ -1,0 +1,18 @@
+.displayProducts{
+    padding: 20px;
+}
+.displayProducts img{
+    width: 80%;
+    height: 30vh;
+}
+.displayProducts p {
+    width: 250px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.heart{
+    position: absolute;
+    float: left;
+    background-color:"red"
+}
